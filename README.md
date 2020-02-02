@@ -8,7 +8,7 @@ Advanced_Regression.py contains ensemble regression techniques. It is the result
 AWS Elastic MapReduce cluster is recommended for larger data sets in the billions.
 
 ---------------------------------------------------------------------------------------------------
-Thanks for dropping by!
+Thanks for dropping by!!
 
 
 #Terence Su
